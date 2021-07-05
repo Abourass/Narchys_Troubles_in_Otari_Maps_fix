@@ -3,7 +3,7 @@
   "title": "Troubles In Otari Maps Remake",
   "description": "<p>My collection of maps for Paizo Publishing's Pathfinder Second Edition TROUBLES IN OTARI adventures.</p>",
   "version": "1.0.0",
-  "minimumCoreVersion": "0.8.6",
+  "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "0.8.8",
   "author": "Narchy",
   "packs": [
