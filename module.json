@@ -1,33 +1,22 @@
 {
-  "name": "av-maps-remake-by-narchy",
-  "title": "Abomination Vaults maps remake",
-  "description": "<p>My collection of maps for Paizo Publishing's Pathfinder Second Edition ABOMINATION VAULTS Adventure Path.</p>",
-  "version": "1.3.0",
-  "minimumCoreVersion": "0.7.5",
-  "compatibleCoreVersion": "0.7.9",
+  "name": "troubles-in-otari-remade-maps",
+  "title": "Troubles in Otari maps remake",
+  "description": "<p>My collection of maps for Paizo Publishing's Pathfinder Second Edition TROUBLES IN OTARI.</p>",
+  "version": "1.0.1",
+  "minimumCoreVersion": "0.8.0",
+  "compatibleCoreVersion": "0.8.8",
   "author": "Narchy",
   "packs": [
     {
-      "name": "av-remake-maps-book-1-by-narchy",
+      "name": "troubles-in-otari-maps-remake-by-narchy",
       "label": "AV maps remake - Book 1 by Narchy",
-      "path": "/packs/av-remake-maps-book-1-by-narchy.db",
+      "path": "/packs/troubles-in-otari-maps-remake-by-narchy.db",
       "entity": "Scene"
-    },      
-    {
-      "name": "av-remake-maps-book-2-by-narchy",
-      "label": "AV maps remake - Book 2 by Narchy",
-      "path": "/packs/av-remake-maps-book-2-by-narchy.db",
-      "entity": "Scene"
-    },      
-    {
-      "name": "av-remake-maps-book-3-by-narchy",
-      "label": "AV maps remake - Book 3 by Narchy",
-      "path": "/packs/av-remake-maps-book-3-by-narchy.db",
-      "entity": "Scene"
-    }         
+    }      
+  
   ],
   
-  "url": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps",
-  "manifest": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/raw/master/module.json",
-  "download": "https://gitlab.com/narchy-maps/abomination-vaults-remade-maps/-/archive/master/abomination-vaults-remade-maps.zip"
+  "url": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps",
+  "manifest": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/raw/master/module.json",
+  "download": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/archive/master/abomination-vaults-remade-maps.zip"
 }
