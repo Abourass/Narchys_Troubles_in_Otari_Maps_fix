@@ -1,7 +1,7 @@
 {
   "name": "troubles-in-otari-maps-remake-by-narchy",
-  "title": "Troubles In Otari Maps Remake",
-  "description": "<p>My collection of maps for Paizo Publishing's Pathfinder Second Edition TROUBLES IN OTARI adventures.</p>",
+  "title": "Troubles In Otari Maps Remake by Narchy",
+  "description": "<p>My collection of maps for Paizo Publishing's Pathfinder Second Edition TROUBLES IN OTARI.</p>",
   "version": "1.0.0",
   "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "0.8.8",
@@ -12,10 +12,11 @@
       "label": "Troubles In Otari Maps Remake by Narchy",
       "path": "/packs/troubles-in-otari-maps-remake-by-narchy.db",
       "entity": "Scene"
-    }  
+    },      
+        
   ],
   
   "url": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps",
   "manifest": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/raw/master/module.json",
-  "download": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/archive/master/troubles-in-otari-remade-maps.zip"
+  "download": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/archive/master/abomination-vaults-remade-maps.zip"
 }
