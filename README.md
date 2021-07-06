@@ -1,5 +1,7 @@
 # Troubles in Otari maps remake
 
+Foundry 0.8.x only - all scenes use foreground layers and overhead tiles/roofs.  
+
 This FoundryVTT module is compilation of maps for the Pathfinder Second Edition TROUBLES IN OTARI adventures. It includes maps made by myself for my own game - but shared with everyone in the hope that you will find it useful.
 
 All maps are designed for for [FoundryVTT](https://foundryvtt.com/) - with walls, doors and windows set up. If you find a mistake, let me know. 
