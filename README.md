@@ -1,6 +1,6 @@
 # Troubles in Otari maps remake
 
-This FoundryVTT module is compilation of maps for the Pathfinder Second Edition ABOMINATION VAULTS Adventure Path. It includes maps for all three books, plus a map of the Graveyard, made by myself for my own game - but shared with everyone in the hope that you will find it useful.
+This FoundryVTT module is compilation of maps for the Pathfinder Second Edition TROUBLES IN OTARI adventures. It includes maps made by myself for my own game - but shared with everyone in the hope that you will find it useful.
 
 All maps are designed for for [FoundryVTT](https://foundryvtt.com/) - with walls, doors and windows set up. If you find a mistake, let me know. 
 
@@ -35,7 +35,7 @@ I make maps for most of the games I run, and they are [freely available to downl
 Once you have installed and activated the module, the scenes will appear as compendium in your game. Just import that, and you will have all the scenes ready to go - complete with walls etc. 
 
 ```
-https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/raw/master/module.json
+https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/raw/main/module.json
 ```
 
 
