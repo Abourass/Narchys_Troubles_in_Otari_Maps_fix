@@ -39,6 +39,6 @@ Once you have installed and activated the module, the scenes will appear as comp
 ```
 https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/raw/main/module.json
 ```
-[![Preview Image](preview/preview-ditdp.jpg)](https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/blob/main/preview/preview.jpg)
+[![Preview Image](preview/preview.jpg)](https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/blob/main/preview/preview.jpg)
 
 
