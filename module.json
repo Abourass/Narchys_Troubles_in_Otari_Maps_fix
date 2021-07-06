@@ -2,7 +2,7 @@
   "name": "troubles-in-otari-remade-maps",
   "title": "Troubles in Otari maps remake",
   "description": "<p>My collection of maps for Paizo Publishing's Pathfinder Second Edition TROUBLES IN OTARI.</p>",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "minimumCoreVersion": "0.8.0",
   "compatibleCoreVersion": "0.8.8",
   "author": "Narchy",
@@ -10,7 +10,7 @@
     {
       "name": "troubles-in-otari-maps-remake-by-narchy",
       "label": "AV maps remake - Book 1 by Narchy",
-      "path": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/raw/main/packs/troubles-in-otari-maps-remake-by-narchy.db",
+      "path": "/packs/troubles-in-otari-maps-remake-by-narchy.db",
       "entity": "Scene"
     }      
   
