@@ -1,4 +1,4 @@
-1.0.6
+1.0.7
 
 Removed erroneous overhead tile from Ambush Site map. Thanks Trapline on Discord!
 
