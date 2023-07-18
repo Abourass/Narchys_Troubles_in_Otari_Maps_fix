@@ -39,6 +39,6 @@
       }
     ],
   "url": "https://github.com/Abourass/Narchys_Troubles_in_Otari_Maps_fix",
-  "manifest": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/raw/main/module.json",
-  "download": "https://gitlab.com/narchy-maps/troubles-in-otari-remade-maps/-/archive/main/troubles-in-otari-remade-maps.zip"
+  "manifest": "https://github.com/Abourass/Narchys_Troubles_in_Otari_Maps_fix/archive/refs/tags/module.json",
+  "download": "https://github.com/Abourass/Narchys_Troubles_in_Otari_Maps_fix/archive/refs/tags/release.zip"
 }
